@@ -1,0 +1,23 @@
+.main {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+header {
+ padding: 10px;
+ margin-top: 20px;
+}
+
+.containerButtons {
+ padding: 50px;
+}
+
+.containerButtons button {
+ padding: 20px;
+ margin: 20px;
+ color: #fff;
+ background-color: blueviolet;
+ border: none;
+ border-radius: 8px;
+}
